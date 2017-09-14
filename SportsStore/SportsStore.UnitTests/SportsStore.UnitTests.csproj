@@ -101,6 +101,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SportsStore.Domain\SportsStore.Domain.csproj">
+      <Project>{fa91875a-e7c6-4c48-ab30-acd2a3eb73d2}</Project>
+      <Name>SportsStore.Domain</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SportsStore.WebUI\SportsStore.WebUI.csproj">
       <Project>{A8E71C3C-D00C-4AE6-87E8-CB8A34B33A39}</Project>
       <Name>SportsStore.WebUI</Name>

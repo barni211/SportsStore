@@ -56,3 +56,9 @@ E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\bin\Syst
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml

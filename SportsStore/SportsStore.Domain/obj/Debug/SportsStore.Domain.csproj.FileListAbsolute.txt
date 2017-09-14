@@ -13,6 +13,10 @@ E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\bin\Deb
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
-E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml

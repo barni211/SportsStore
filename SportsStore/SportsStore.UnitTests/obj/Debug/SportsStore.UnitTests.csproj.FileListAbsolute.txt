@@ -45,3 +45,7 @@ E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.UnitTests\bin\
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+E:\MVC workspace\projekt sportStore nauka\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml

@@ -10,15 +10,19 @@ namespace SportsStore.WebUI.Controllers
     public class ProductController : Controller
     {
         private IProductRepository repository;
+        public int PageSize = 4;
 
         public ProductController(IProductRepository productRepository)
         {
             this.repository = productRepository;
         }
 
-        public ViewResult List()
+        public ViewResult List(int page = 1)
         {
-            return View(repository.Products);
+            return View(repository.Products
+                .OrderBy(p => p.ProductId)
+                .Skip((page - 1) * PageSize)
+                .Take(PageSize));
         }
 
     }

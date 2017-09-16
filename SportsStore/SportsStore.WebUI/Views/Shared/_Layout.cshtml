@@ -13,11 +13,11 @@
     </div>
     <div class="row panel">
         <div id="categories" class="col-xs-3">
-            Później umieszcze tutaj coś użytecznego.
+            @Html.Action("Menu", "Nav")
         </div>
-    </div>
-    <div class="col-xs-8">
-        @RenderBody()
+        <div class="col-xs-8">
+            @RenderBody()
+        </div>
     </div>
 </body>
 </html>
